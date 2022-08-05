@@ -11,6 +11,6 @@ _How to add Typescript to a React application._
 _Using Babel and Webpack._
 _Concepts about the Type Definition File and the Type alias._
 
-_Documentation;_
+_Documentation;_  
 https://babeljs.io/docs/en/index.html
 https://webpack.js.org/guides/typescript/
