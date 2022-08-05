@@ -5,8 +5,7 @@
   
 **_Learned About_**  
 > _Add User Authentication_  
-_Usage Server-Side Sessions_ 
-
+_Usage Server-Side Sessions_
 _Introduction and first steps in Typescript._
 _How to add Typescript to a React application._
 _Using Babel and Webpack._
