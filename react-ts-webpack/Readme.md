@@ -12,5 +12,5 @@ _Using Babel and Webpack._
 _Concepts about the Type Definition File and the Type alias._
 
 _Documentation;_  
-https://babeljs.io/docs/en/index.html
+https://babeljs.io/docs/en/index.html  
 https://webpack.js.org/guides/typescript/
